@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: pro
+server:
+  servlet:
+    context-path: /chenhao_demo1
